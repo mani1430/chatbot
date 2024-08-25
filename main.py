@@ -1,5 +1,5 @@
-import torch
-print(torch.__version__)
-print(torch.cuda.is_available())
+from utils.utils import Utils
+import os
 
-#dev checking
+print(Utils.get_device())
+print(os.path.isfile('data/seq2seq.json'))
