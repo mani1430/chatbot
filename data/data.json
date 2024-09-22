@@ -1,0 +1,58 @@
+[
+    {
+        "questions": ["hi", "hello", "hey", "howdy", "hi there", "hello there"],
+        "answer": "Hello! How can I help you today?"
+    },
+    {
+        "questions": ["what's today?", "what is the date today?", "tell me about today"],
+        "answer": "Today is {datetime.date.today()}."
+    },
+    {
+        "questions": ["what's tomorrow?", "what is the date tomorrow?", "tell me about tomorrow"],
+        "answer": "Tomorrow will be {datetime.date.today() + datetime.timedelta(days=1)}."
+    },
+    {
+        "questions": ["good morning"],
+        "answer": "Good morning!"
+    },
+    {
+        "questions": ["good afternoon"],
+        "answer": "Good afternoon!"
+    },
+    {
+        "questions": ["good evening"],
+        "answer": "Good evening!"
+    },
+    {
+        "questions": ["good night"],
+        "answer": "Good night!"
+    },
+    {
+        "questions": ["good day"],
+        "answer": "Yes, It's a nice day"
+    },
+    {
+        "questions": ["what's your name?", "who are you?", "tell me your name", "about your self"],
+        "answer": "I'm your friendly chatbot!"
+    },
+    {
+        "questions": ["how are you?", "how's it going?", "what's up?"],
+        "answer": "I'm just a program, but I'm here to help you!"
+    },
+    {
+        "questions": ["help", "can you assist me?", "I need support"],
+        "answer": "Of course! What do you need help with?"
+    },
+    {
+        "questions": ["thank you", "thanks", "appreciate it"],
+        "answer": "You're welcome! If you have more questions, feel free to ask."
+    },
+    {
+        "questions": ["bye", "goodbye", "see you later"],
+        "answer": "Goodbye! Have a great day!"
+    },
+    {
+        "questions": ["what is your purpose?", "why do you exist?", "what can you do?"],
+        "answer": "I'm here to assist you with information and answer your questions!"
+    }
+]

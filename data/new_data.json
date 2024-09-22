@@ -1,0 +1,146 @@
+[
+    {
+        "question": "hi",
+        "answer": "Hello! How can I help you today?"
+    },
+    {
+        "question": "hello",
+        "answer": "Hello! How can I help you today?"
+    },
+    {
+        "question": "hey",
+        "answer": "Hello! How can I help you today?"
+    },
+    {
+        "question": "howdy",
+        "answer": "Hello! How can I help you today?"
+    },
+    {
+        "question": "hi there",
+        "answer": "Hello! How can I help you today?"
+    },
+    {
+        "question": "hello there",
+        "answer": "Hello! How can I help you today?"
+    },
+    {
+        "question": "what's today?",
+        "answer": "Today is {datetime.date.today()}."
+    },
+    {
+        "question": "what is the date today?",
+        "answer": "Today is {datetime.date.today()}."
+    },
+    {
+        "question": "tell me about today",
+        "answer": "Today is {datetime.date.today()}."
+    },
+    {
+        "question": "what's tomorrow?",
+        "answer": "Tomorrow will be {datetime.date.today() + datetime.timedelta(days=1)}."
+    },
+    {
+        "question": "what is the date tomorrow?",
+        "answer": "Tomorrow will be {datetime.date.today() + datetime.timedelta(days=1)}."
+    },
+    {
+        "question": "tell me about tomorrow",
+        "answer": "Tomorrow will be {datetime.date.today() + datetime.timedelta(days=1)}."
+    },
+    {
+        "question": "good morning",
+        "answer": "Good morning!"
+    },
+    {
+        "question": "good afternoon",
+        "answer": "Good afternoon!"
+    },
+    {
+        "question": "good evening",
+        "answer": "Good evening!"
+    },
+    {
+        "question": "good night",
+        "answer": "Good night!"
+    },
+    {
+        "question": "good day",
+        "answer": "Yes, It's a nice day"
+    },
+    {
+        "question": "what's your name?",
+        "answer": "I'm your friendly chatbot!"
+    },
+    {
+        "question": "who are you?",
+        "answer": "I'm your friendly chatbot!"
+    },
+    {
+        "question": "tell me your name",
+        "answer": "I'm your friendly chatbot!"
+    },
+    {
+        "question": "about your self",
+        "answer": "I'm your friendly chatbot!"
+    },
+    {
+        "question": "how are you?",
+        "answer": "I'm just a program, but I'm here to help you!"
+    },
+    {
+        "question": "how's it going?",
+        "answer": "I'm just a program, but I'm here to help you!"
+    },
+    {
+        "question": "what's up?",
+        "answer": "I'm just a program, but I'm here to help you!"
+    },
+    {
+        "question": "help",
+        "answer": "Of course! What do you need help with?"
+    },
+    {
+        "question": "can you assist me?",
+        "answer": "Of course! What do you need help with?"
+    },
+    {
+        "question": "I need support",
+        "answer": "Of course! What do you need help with?"
+    },
+    {
+        "question": "thank you",
+        "answer": "You're welcome! If you have more questions, feel free to ask."
+    },
+    {
+        "question": "thanks",
+        "answer": "You're welcome! If you have more questions, feel free to ask."
+    },
+    {
+        "question": "appreciate it",
+        "answer": "You're welcome! If you have more questions, feel free to ask."
+    },
+    {
+        "question": "bye",
+        "answer": "Goodbye! Have a great day!"
+    },
+    {
+        "question": "goodbye",
+        "answer": "Goodbye! Have a great day!"
+    },
+    {
+        "question": "see you later",
+        "answer": "Goodbye! Have a great day!"
+    },
+    {
+        "question": "what is your purpose?",
+        "answer": "I'm here to assist you with information and answer your questions!"
+    },
+    {
+        "question": "why do you exist?",
+        "answer": "I'm here to assist you with information and answer your questions!"
+    },
+    {
+        "question": "what can you do?",
+        "answer": "I'm here to assist you with information and answer your questions!"
+    }
+]
